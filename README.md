@@ -1,5 +1,5 @@
 # Popular Movies App
-Android App to to count goals in court. Udacity Project number 02 for Android Basic NanoDegree.
+Android App to count goals in court. Udacity Project number 02 for Android Basic NanoDegree.
 
 ## Built With
 * UI Design, ImageButton, TextView, Java.
