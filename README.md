@@ -1,4 +1,4 @@
-# Popular Movies App
+# Court Counter App
 Android App to count goals in court. Udacity Project number 02 for Android Basic NanoDegree.
 
 ## Built With
